@@ -1,4 +1,3 @@
-1.This assignment is graded.
-2.please follow the instructions file posted on canvas
-3.Upload your work to canvas and push all your files to your repository.
-4.clone this repository and start working on the Assignmnet-3
+Created dishes and order form html file with css to style both sites. The calender is currently not available and a msg appears to inform. 
+Javascript was used to alert these messages and for alert when quantity is exceeded.
+This is an addition to the previous assignments and will be cohesive in later assignments.
